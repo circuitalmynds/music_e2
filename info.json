@@ -1,6 +1,7 @@
 {
-    "available_space": true,
-    "files": [
+    "available_space": false,
+    "total_size": 1041.3032999999998,
+    "videos": [
         "Elton John - Tiny Dancer (Official Music Video)-yYcyacLRPNs.mp4",
         "Gipsy Kings - Djobi, Djoba (Official Video)-oxNK7VBizac.mp4",
         "Hotrod Gang - Stray Cats-bdeZ-rPXtzE.mp4",
@@ -94,7 +95,5 @@
         "Café Tacvba - Una Mañana [Mtv Unplugged] [480p]-rIQt8SGmG7k.mp4",
         "Choo Choo Ch'boogie - Louis Jordan-c8uxrypkqv4.mp4",
         "Conjunto Primavera - Hoy Como Ayer (Video Oficial).mp4"
-    ],
-    "id": "e2",
-    "total_size": 993.0636523437499
+    ]
 }
